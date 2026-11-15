@@ -5,12 +5,6 @@
 Для каждой книги извлекаются название, цена в GBP, рейтинг от 1 до 5,
 количество в наличии, описание и вся таблица Product Information.
 
-## Статус подготовки
-
-Технические ячейки ноутбука выполнены; данные и отчёты находятся в `artifacts/`. Результаты: [VALIDATION.md](VALIDATION.md).
-
-Подготовлено с помощью Codex (см. `AI_USAGE.md`); личная рефлексия заполняется студентом самостоятельно. Историю PR и слияния проверяйте на GitHub.
-
 ## Установка и полный запуск
 
 Нужен Python 3.10 или новее и доступ к PyPI и Books to Scrape.
@@ -139,8 +133,6 @@ scripts/
   finish.sh
 ```
 
-Переименуйте `ФИО_HW_03_python_ds.ipynb`, заменив `ФИО` полными фамилией,
-именем и отчеством. Исходные вопросы рефлексии сохранены без ответов.
 
 ## Git и GitHub
 
@@ -184,5 +176,3 @@ git pull --ff-only origin main
 - [Books to Scrape](https://books.toscrape.com/).
 - [Карточка для самопроверки](https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html).
 - [Официальные примеры schedule](https://schedule.readthedocs.io/en/stable/examples.html).
-- `AI_USAGE.md` фиксирует участие помощника и запросы; это техническая запись,
-  а не личная рефлексия студента.
