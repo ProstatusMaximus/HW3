@@ -1,0 +1,3 @@
+[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m                                                   [100%][0m
+- generated xml file: /Users/andrejskakalin/Documents/botanie/proga/python/HW3/artifacts/pytest-results.xml -
+[32m[32m[1m22 passed[0m[32m in 0.15s[0m[0m
