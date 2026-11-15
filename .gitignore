@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+.env
+.env.*
+*.log
+/books_data.txt
+/artifacts/schedule_smoke.txt
+requirements.txt.tmp
